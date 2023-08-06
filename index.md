@@ -1,15 +1,15 @@
 # Ella Archie - Data Analytics Portfolio
 
 ## About Me
-![Kyle Picture](https://github.com/kyleplhm/kyleplhm.github.io/blob/main/kyleheadshot.jpg?raw=true)
+![Ella Picture](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/8D9FB647-732E-4D50-A57F-35448A598A21_1_105_c.jpeg?raw=true)
+
 
 Hi! My name is Ella Archie, and I recently graduated from California Polytechnic State University, San Luis Obispo with a Masters of Science in Business Analytics. Prior to attending Cal Poly, I graduated from UC Davis and received a Bachelor of Science in Managerial Economics, and a Bachelor of Arts in Spanish. 
 
 
 Contact Info: 
 * *ejarchie@ucdavis.edu*
-* *[Linked In](https://www.linkedin.com/in/kyle-pelham/)*
-
+* *[Linked In](https://www.linkedin.com/in/ella-archie-126aa1268/)*
 
 # Data Analytics Projects:
 
