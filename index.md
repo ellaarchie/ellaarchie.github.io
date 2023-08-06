@@ -13,13 +13,13 @@ Contact Info:
 
 # Data Analytics Projects:
 
-### [1. Proactive Constraint Flow Management: Real-time Detection and Analysis for Enhanced Power Grid Stability](https://github.com/kyleplhm/Regime-Change)
+### [1. NBA Analytics](https://github.com/kyleplhm/Regime-Change)
 * Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
 * Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
 * Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
 * Identifying substantial changes in constraint flow enables utilities companies to proactively maintain grid stability during regime changes by alerting them in advance.
 
-### [2. Chipotle Customer Segmentation: A K-means Clustering Approach to Survey Analysis](https://github.com/kyleplhm/Chipotle-Cluster-Analysis)
+### [2. Political Affiliation](https://github.com/kyleplhm/Chipotle-Cluster-Analysis)
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
 * Dimensionality reduction: Use Sci-kit Learn's PCA (Principal Component Analysis) to reduce survey dimensions while preserving important information.
 * K-means clustering: Perform k-means clustering on the transformed data using Sci-kit Learn to identify distinct customer segments.
@@ -27,16 +27,19 @@ Contact Info:
 * Exploratory Data Analysis (EDA): Investigate each cluster's unique characteristics and differences to better understand customer preferences and behaviors.
 * Marketing strategy suggestions: Leverage insights from the cluster analysis to propose tailored marketing strategies for each customer segment.tilizes Sci-kit Learn package to reduce survey dimensions with Principle Component Analysis and perform k-means clustering on the transformed data.
 
-### [3. Exploring the Relationship Between World Happiness and the Big Mac Index](https://github.com/kyleplhm/BigMacIndex-Happiness)
+### [3. Home Advantage by Sport](https://github.com/kyleplhm/BigMacIndex-Happiness)
 * Consolidating and processing seven years of Big Mac Index and World Happiness data into a unified dataframe for analysis.
 * Conducting an exploratory data analysis to examine the potential correlation between the Big Mac Index and World Happiness scores.
 * Utilizing Pearson's correlation coefficient to quantitatively assess the relationship between the two indices.
 
-### [4. SLO Pop-Up Ordering System: Database Design and Implementation](https://github.com/kyleplhm/data-management-project)
+### [4. Snapchat Forecasting](https://github.com/kyleplhm/data-management-project)
 * Eliciting requirements and establishing business rules for the development of a relational database using MySQL, tailored for a pop-up ordering system.
 * Creating an advanced Entity-Relationship (ER) diagram to ensure a comprehensive database structure and verifying the normalization of tables for optimal performance.
 * Developing a functional prototype, including a database creation script, to facilitate rapid deployment and testing of the system.
 * Effectively demonstrating the ordering workflow through a series of well-structured SQL queries and the utilization of dummy data, showcasing the system's capabilities and potential for real-world applications.
+
+### [5. Financial Time Series Project](insert link here) 
+
 
 # Cal Poly MSBA Courses Taken
 
