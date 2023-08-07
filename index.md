@@ -27,12 +27,14 @@ Contact Info:
 * Exploratory Data Analysis (EDA): Investigate each cluster's unique characteristics and differences to better understand customer preferences and behaviors.
 * Marketing strategy suggestions: Leverage insights from the cluster analysis to propose tailored marketing strategies for each customer segment.tilizes Sci-kit Learn package to reduce survey dimensions with Principle Component Analysis and perform k-means clustering on the transformed data.
 
-### [3. Home Advantage by Sport](https://github.com/kyleplhm/BigMacIndex-Happiness)
+### [3. Home Advantage by Sport](https://github.com/kyleplhm/BigMacIndex-Happiness) 
+![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/homeadvantage.png?raw=true)
 * Consolidating and processing seven years of Big Mac Index and World Happiness data into a unified dataframe for analysis.
 * Conducting an exploratory data analysis to examine the potential correlation between the Big Mac Index and World Happiness scores.
 * Utilizing Pearson's correlation coefficient to quantitatively assess the relationship between the two indices.
 
 ### [4. Snapchat Forecasting](https://github.com/kyleplhm/data-management-project)
+![snap cover photo]()
 * Eliciting requirements and establishing business rules for the development of a relational database using MySQL, tailored for a pop-up ordering system.
 * Creating an advanced Entity-Relationship (ER) diagram to ensure a comprehensive database structure and verifying the normalization of tables for optimal performance.
 * Developing a functional prototype, including a database creation script, to facilitate rapid deployment and testing of the system.
