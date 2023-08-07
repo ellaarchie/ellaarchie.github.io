@@ -34,7 +34,7 @@ Contact Info:
 * Utilizing Pearson's correlation coefficient to quantitatively assess the relationship between the two indices.
 
 ### [4. Snapchat Forecasting](https://github.com/kyleplhm/data-management-project)
-![snap cover photo]()
+![snap cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/snapchat_covid.jpeg?raw=true)
 * Eliciting requirements and establishing business rules for the development of a relational database using MySQL, tailored for a pop-up ordering system.
 * Creating an advanced Entity-Relationship (ER) diagram to ensure a comprehensive database structure and verifying the normalization of tables for optimal performance.
 * Developing a functional prototype, including a database creation script, to facilitate rapid deployment and testing of the system.
