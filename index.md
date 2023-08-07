@@ -42,7 +42,8 @@ Contact Info:
 
 ### [5. Financial Time Series Project](https://github.com/ellaarchie/projects/blob/main/Financial%20Time%20Series%20Final%20Project%20Report.pdf)
 [html](https://github.com/ellaarchie/projects/blob/main/Financial_TS_Final_ProjectReport.html) 
-* Group collaboration that provides an analysis on the housing markets in two California counties. 
+* Group collaboration that provides an analysis on the housing markets in two California counties.
+* includes the final report as well as the html file 
 
 
 # Cal Poly MSBA Courses Taken
