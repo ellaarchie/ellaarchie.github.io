@@ -18,11 +18,7 @@ Contact Info:
 
 ### [2. Political Affiliation](https://github.com/ellaarchie/projects/blob/main/Political_Affiliation_Analysis.ipynb)
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
-* Dimensionality reduction: Use Sci-kit Learn's PCA (Principal Component Analysis) to reduce survey dimensions while preserving important information.
-* K-means clustering: Perform k-means clustering on the transformed data using Sci-kit Learn to identify distinct customer segments.
-* Cluster labeling: Apply the cluster labels to the original data for further comparative analysis.
-* Exploratory Data Analysis (EDA): Investigate each cluster's unique characteristics and differences to better understand customer preferences and behaviors.
-* Marketing strategy suggestions: Leverage insights from the cluster analysis to propose tailored marketing strategies for each customer segment.tilizes Sci-kit Learn package to reduce survey dimensions with Principle Component Analysis and perform k-means clustering on the transformed data.
+
 
 ### [3. Home Advantage by Sport](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb) 
 ![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/homeadvantage.png?raw=true)
