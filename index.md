@@ -14,10 +14,7 @@ Contact Info:
 # Data Analytics Projects:
 
 ### [1. NBA Analytics](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb)
-* Individual contribution to a collaborative Cal Poly MSBA capstone project, partnering with a prominent North American utilities company.
-* Employs the "onlineBcp" R package for real-time detection of significant shifts in power output time series data using Bayesian probabilities.
-* Utilizes anonymized historical data for a single constraint, illustrating constraints as power grid limitations influenced by factors such as transmission capacity, generation limits, network topology, and regulations; constraint flow represents the electricity flow within these constrained segments.
-* Identifying substantial changes in constraint flow enables utilities companies to proactively maintain grid stability during regime changes by alerting them in advance.
+* analyzed the impact of having fans on a home team's performance 
 
 ### [2. Political Affiliation](https://github.com/ellaarchie/projects/blob/main/Political_Affiliation_Analysis.ipynb)
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
