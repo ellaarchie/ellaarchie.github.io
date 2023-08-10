@@ -13,30 +13,35 @@ Contact Info:
 
 # Data Analytics Projects:
 
-### [1. NBA Analytics](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb)
-* analyzed the impact of having fans on a home team's performance 
+### [1. NBA Analytics - Home Court Advantage](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb)
+* Analyzed the impact of home game attendance on the outcome of home games in the NBA
+* Scraping, merging, and cleaning data
+* Creating and calculating relevant metrics
+* Data visualization
+* Statistical Analysis (OLS Regression)
 
 ### [2. Political Affiliation](https://github.com/ellaarchie/projects/blob/main/Political_Affiliation_Analysis.ipynb)
+* Examining Political Affiliation by Number of Computers Owned per Household
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
 
 
-### [3. Home Advantage by Sport](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb) 
+### [3. Impact of Home Advantage by Sport](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb) 
 ![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/homeadvantage.png?raw=true)
-* Consolidating and processing seven years of Big Mac Index and World Happiness data into a unified dataframe for analysis.
-* Conducting an exploratory data analysis to examine the potential correlation between the Big Mac Index and World Happiness scores.
-* Utilizing Pearson's correlation coefficient to quantitatively assess the relationship between the two indices.
+* Building upon our NBA home court advantage analysis, we compared the impact that home game attendace has upon different professional sports.
+* Data wrangling, consolidation, and cleaning
+* Data visualization
+* Statistical analysis to determine significance of results 
 
 ### [4. Snapchat Forecasting](https://github.com/ellaarchie/projects/blob/main/Snapchat_Forecasting.ipynb)
 ![snap cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/snapchat_covid.jpeg?raw=true)
-* Eliciting requirements and establishing business rules for the development of a relational database using MySQL, tailored for a pop-up ordering system.
-* Creating an advanced Entity-Relationship (ER) diagram to ensure a comprehensive database structure and verifying the normalization of tables for optimal performance.
-* Developing a functional prototype, including a database creation script, to facilitate rapid deployment and testing of the system.
-* Effectively demonstrating the ordering workflow through a series of well-structured SQL queries and the utilization of dummy data, showcasing the system's capabilities and potential for real-world applications.
+* Forecasting and predicting the number of Daily Active Users for Snapchat at the onset of the covid pandemic
+* Python forecasting packages
+* Analysis and understanding about how covid impacted snapchat users 
 
 ### [5. Financial Time Series Project](https://github.com/ellaarchie/projects/blob/main/Financial%20Time%20Series%20Final%20Project%20Report.pdf)
 [html](https://github.com/ellaarchie/projects/blob/main/Financial_TS_Final_ProjectReport.html) 
 * Group collaboration that provides an analysis on the housing markets in two California counties.
-* includes the final report as well as the html file 
+* Includes various metrics to support a final conclusion on the best course of action in each market 
 
 
 # Cal Poly MSBA Courses Taken
