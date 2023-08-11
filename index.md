@@ -13,7 +13,7 @@ Contact Info:
 
 # Data Analytics Projects:
 
-### [1. NBA Analytics - Home Court Advantage](https://github.com/ellaarchie/projects/blob/main/Home_Advantage_by_sport.ipynb)
+### [1. NBA Analytics - Home Court Advantage](https://github.com/ellaarchie/projects/blob/main/NBA_Analytics.ipynb)
 * Analyzed the impact of home game attendance on the outcome of home games in the NBA
 * Scraping, merging, and cleaning data
 * Creating and calculating relevant metrics
