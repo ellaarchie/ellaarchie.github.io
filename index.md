@@ -8,7 +8,7 @@ Hi! My name is Ella Archie, and I recently graduated from California Polytechnic
 
 
 Contact Info: 
-* *ejarchie@ucdavis.edu*
+* *ejarchie@ucdavis.edu* 
 * *[Linked In](https://www.linkedin.com/in/ella-archie-126aa1268/)*
 
 # Data Analytics Projects:
