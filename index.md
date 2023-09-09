@@ -14,7 +14,7 @@ Contact Info:
 # Data Analytics Projects:
 
 ### [1. NBA Analytics - Home Court Advantage](https://github.com/ellaarchie/projects/blob/main/NBA_Analytics.ipynb)
-![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.18.42%20PM.png)
+![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.18.42%20PM.png?raw=true)
 * Analyzed the impact of home game attendance on the outcome of home games in the NBA
 * Scraping, merging, and cleaning data
 * Creating and calculating relevant metrics
@@ -22,7 +22,7 @@ Contact Info:
 * Statistical Analysis (OLS Regression)
 
 ### [2. Political Affiliation](https://github.com/ellaarchie/projects/blob/main/Political_Affiliation_Analysis.ipynb)
-![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.15.04%20PM.png)
+![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.15.04%20PM.png?raw=true)
 * Examining Political Affiliation by Number of Computers Owned per Household
 * Survey data cleanup: Conduct general preprocessing of survey responses to ensure data quality.
 
@@ -42,7 +42,7 @@ Contact Info:
 
 ### [5. Financial Time Series Project](https://github.com/ellaarchie/projects/blob/main/Financial%20Time%20Series%20Final%20Project%20Report.pdf)
 [html](https://github.com/ellaarchie/projects/blob/main/Financial_TS_Final_ProjectReport.html) 
-![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.20.15%20PM.png)
+![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.20.15%20PM.png?raw=true)
 * Group collaboration that provides an analysis on the housing markets in two California counties.
 * Includes various metrics to support a final conclusion on the best course of action in each market 
 
