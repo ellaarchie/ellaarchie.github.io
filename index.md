@@ -41,7 +41,7 @@ Contact Info:
 * Analysis and understanding about how covid impacted snapchat users 
 
 ### [5. Financial Time Series Project](https://github.com/ellaarchie/projects/blob/main/Financial%20Time%20Series%20Final%20Project%20Report.pdf)
-[html](https://github.com/ellaarchie/projects/blob/main/Financial_TS_Final_ProjectReport.html) 
+[html](file:///Users/ella/Desktop/job%20stuff%20/portfolio/Financial_TS_Final_ProjectReport.html)
 ![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.20.15%20PM.png?raw=true)
 * Group collaboration that provides an analysis on the housing markets in two California counties.
 * Includes various metrics to support a final conclusion on the best course of action in each market 
