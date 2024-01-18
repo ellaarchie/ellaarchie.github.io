@@ -36,15 +36,20 @@ Contact Info:
 
 ### [4. Snapchat Forecasting](https://github.com/ellaarchie/projects/blob/main/Snapchat_Forecasting.ipynb)
 ![snap cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/snapchat_covid.jpeg?raw=true)
-* Forecasting and predicting the number of Daily Active Users for Snapchat at the onset of the covid pandemic
-* Python forecasting packages
-* Analysis and understanding about how covid impacted snapchat users 
+*	Utilized Python forecasting packages to predict Daily Active Users during the COVID-19 pandemic.
+* Analyzed user behavior, providing insights into the impact of COVID-19 on Snapchat engagement.
+* Applied data-driven forecasting to understand and predict user trends during the pandemic.
+![image](https://github.com/ellaarchie/ellaarchie.github.io/assets/123129600/ecf4dd62-5d78-42cf-973c-5916f2a20e03)
+
 
 ### [5. Financial Time Series Project](https://github.com/ellaarchie/projects/blob/main/Financial%20Time%20Series%20Final%20Project%20Report.pdf)
 [html](https://github.com/ellaarchie/projects/blob/main/Financial_TS_Final_ProjectReport.html)
 ![cover photo](https://github.com/ellaarchie/ellaarchie.github.io/blob/main/Screenshot%202023-08-11%20at%204.20.15%20PM.png?raw=true)
-* Group collaboration that provides an analysis on the housing markets in two California counties.
-* Includes various metrics to support a final conclusion on the best course of action in each market 
+* Conducted a thorough analysis of housing markets in two California counties using econometric models, time-series analysis, and multivariate techniques.
+* Applied ARIMA models for price and return forecasting, implementing various GARCH models for conditional variance analysis.
+* Utilized multivariate analysis to capture interdependencies among housing market variables.
+![image](https://github.com/ellaarchie/ellaarchie.github.io/assets/123129600/90289a9f-e15b-4596-8295-d30881f0d1f2)
+ 
 
 
 # Cal Poly MSBA Courses Taken
